@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS monthly_performance CASCADE;
+DROP TABLE IF EXISTS rental_units CASCADE;
+DROP TABLE IF EXISTS districts CASCADE;
